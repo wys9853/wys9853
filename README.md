@@ -11,5 +11,7 @@
 
 -📫How to contact me: QQ:804667197
 
+-😄I'm still a primary school student in the computer industry, please advise
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wys9853)](https://github.com/anuraghazra/github-readme-stats)
 
